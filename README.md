@@ -1,2 +1,2 @@
-# tc 
-meu-trabalho-de-sistemas
+# Trabalho de curso (TC)
+Meu Trabalho De Sistemas De Informação
